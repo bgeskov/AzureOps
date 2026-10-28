@@ -152,6 +152,3 @@ A current desktop browser such as Edge, Chrome or Firefox. Touch devices have no
 
 [Cytoscape.js](https://js.cytoscape.org/) and [cytoscape-fcose](https://github.com/iVis-at-Bilkent/cytoscape.js-fcose).
 
-## License
-
-Add the license you want to use for this tool here, for example MIT.
